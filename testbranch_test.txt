@@ -1,3 +1,4 @@
-hallo welt. Diese Datei wird nur verwendet um zu zeigen, 
+Diese Datei wird nur verwendet um zu zeigen, 
 wie man einen Branch erstellt und diesen später mit 
 dem Main/Master Branch merged
+Hier sehen sie ein Beispiel der Visuellen Darstellung.
