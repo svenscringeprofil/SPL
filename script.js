@@ -54,3 +54,5 @@ function resetGame() {
   const cells = document.querySelectorAll('.cell');
   cells.forEach(cell => cell.textContent = '');
 }
+
+// Test Commit für Dokumentation
